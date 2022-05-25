@@ -1,0 +1,29 @@
+html {
+    font-size: 10px;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #d44bab;
+}
+
+h1 {
+    font-size: 60px;
+    margin: 0;
+    padding: 20px 0;
+    color: #dd3a3a;
+    text-shadow: 3px 3px 1px rgb(63, 55, 55);
+}
+ 
+body {
+    width: 600px;
+    height: 600px;
+    margin: 0 auto;
+    background-color: #ff6eab;
+    padding: 5px 20px 20px 20px;
+    border: 3px solid black;
+}
+
+.anchor {
+    font-size: 12px;
+    margin: 0;
+    padding: 20px 0;
+    color: #555a12;
+}
